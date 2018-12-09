@@ -1,6 +1,6 @@
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
-[![BeerJS](https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.png)]
+![BeerJS](https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.png)
 
 # BeerJS Tallinn
 
