@@ -1,4 +1,4 @@
-![BeerJS](https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.png)
+<img src="https://raw.githubusercontent.com/beerjs/tallinn/master/logo.jpg" alt="BeerJS Tallinn" width="250" height="250" />
 
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
