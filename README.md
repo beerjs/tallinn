@@ -11,3 +11,9 @@ Informal meet up for everybody who loves JS in all it's faces.
 [Join us](https://t.me/beerjs_tallinn_chat) on Telegram.
 
 [Facebook](https://www.facebook.com/beerjstallinn) page.
+
+## Releases
+
+Version | Place                                                       | Date
+--------|-------------------------------------------------------------|------------------
+1       | [Beer Garden](https://github.com/beerjs/tallinn/issues/1)   | 15 January 2019
