@@ -17,3 +17,4 @@ Informal meet up for everybody who loves JS in all it's faces.
 Version | Place                                                       | Date
 --------|-------------------------------------------------------------|------------------
 1       | [Beer Garden](https://github.com/beerjs/tallinn/issues/1)   | 15 January 2019
+2       | [Beer House](https://github.com/beerjs/tallinn/issues/2)    | 6  February 2019
